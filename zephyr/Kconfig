@@ -1,0 +1,10 @@
+# SPDX-License-Identifier: Apache-2.0
+menuconfig ROSIDL
+        bool "ROSIDL support"
+        help
+          This option enables ROSIDL
+
+if ROSIDL
+
+endif
+
